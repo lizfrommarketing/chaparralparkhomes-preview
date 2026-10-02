@@ -1,5 +1,3 @@
 User-agent: *
-Allow: /
-Disallow: /thank-you.html
-
-Sitemap: https://chaparralparkhomes.com/sitemap.xml
+Disallow: /
+# Preview copy only. Production robots.txt lives in the website repo.
